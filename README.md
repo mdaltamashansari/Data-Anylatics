@@ -1,2 +1,2 @@
 # Data-Anylatics
-GitHub data analytics practice files 
+GitHub data analytics practice files
