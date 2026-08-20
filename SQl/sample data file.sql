@@ -13,4 +13,4 @@ values
 (101, "anil", 78 , "C", "Pune"),
 (102, "bhumika", 93, "A", "Mumbai");
 
-select name,marks from students;
+select distinct name,marks from students;
